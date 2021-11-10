@@ -1,0 +1,22 @@
+ababac
+No Successor
+aaabbbacaccacadadadgagagaaaabbbacaccacadadadgaggaa
+aaabbbacaccacadadadgaggaa
+acb
+bac
+bca
+cab
+cba
+No Successor
+abcb
+acbb
+babc
+bacb
+bbac
+bbca
+bcab
+bcba
+cabb
+cbab
+cbba
+No Successor
